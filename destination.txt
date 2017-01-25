@@ -1,0 +1,5 @@
+id   fName   lName  score
+---  ------  -----  -----
+124  Jane    Doe    543  
+125  Jackie  Doe    453  
+123  John    Doe    234  
